@@ -40,7 +40,7 @@ like the right challenge.
 | USB-C Power Supply 5.1V 3A with switch | $11.95 | [PiShop.ca](https://www.pishop.ca/product/usb-c-power-supply-5-1v-3-0a-ul-listed-on-off-switch/) |
 | MicroSD 32GB with Pi OS | ~$18.00 | Best Buy |
 | Micro-HDMI to HDMI cable | ~$7.00 | Best Buy |
-| RPi FPC Camera (B) 5MP mini | $25.95 | [PiShop.ca](https://www.pishop.ca/product/rpi-fpc-camera-b-for-raspberry-pi-ov5647-5mp-mini-size/) |
+| Raspberry Pi Camera Module 3 | ~$36 | CanaKit / Canada Robotix |
 | Two-way acrylic mirror panel | ~$25.00 | Local hardware store |
 | Monitor used | $40.00 | Facebook Marketplace |
 | Wood frame materials | ~$15.00 | Hardware store |
