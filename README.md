@@ -4,6 +4,13 @@ A Raspberry Pi 4-powered smart mirror for my bedroom,
 running MagicMirror with custom modules and a built-in 
 camera module.
 
+## Software
+
+This project uses MagicMirror²:
+https://github.com/MichMich/MagicMirror
+
+It is included in the /MagicMirror folder.
+
 Built as part of [Hack Club Blueprint](https://blueprint.hackclub.com/projects/13749)
 
 ---
