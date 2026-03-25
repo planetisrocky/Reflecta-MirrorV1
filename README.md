@@ -47,7 +47,8 @@ like the right challenge.
 | MicroSD 32GB with Pi OS | ~$18.00 | Best Buy |
 | Micro-HDMI to HDMI cable | ~$7.00 | Best Buy |
 | Raspberry Pi Camera Module 3 | ~$36 | CanaKit / Canada Robotix |
-| Two-way acrylic mirror panel | ~$25.00 | Local hardware store |
+| Acrylic Panel | ~$25.00 | Local hardware store |
+| Two way mirror film | ~$20 | Amazon |
 | Monitor used | $40.00 | Facebook Marketplace |
 | Wood frame materials | ~$15.00 | Hardware store |
 | **Total** | **~$220 CAD** | |
