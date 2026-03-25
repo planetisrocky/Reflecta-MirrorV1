@@ -44,14 +44,14 @@ like the right challenge.
 |---|---|---|
 | Raspberry Pi 4 Model B 2GB | $74.95 | [PiShop.ca](https://www.pishop.ca/product/raspberry-pi-4-model-b-2gb/) |
 | USB-C Power Supply 5.1V 3A with switch | $11.95 | [PiShop.ca](https://www.pishop.ca/product/usb-c-power-supply-5-1v-3-0a-ul-listed-on-off-switch/) |
-| MicroSD 32GB with Pi OS | ~$18.00 | Best Buy |
-| Micro-HDMI to HDMI cable | ~$12.00 | Best Buy |
-| Raspberry Pi Camera Module 3 | ~$36 | CanaKit / Canada Robotix |
+| MicroSD 64GB | ~$18.00 | [Best Buy](https://www.bestbuy.ca/en-ca/product/sandisk-ultra-micro-sdxc-no-adapter-64gb-sdsqua4-064g-gn6mn-brand-new/16590115?icmp=Cart_Item) |
+| Micro-HDMI to HDMI cable | ~$12.00 | [Best Buy](https://www.bestbuy.ca/en-ca/product/micro-hdmi-to-hdmi-cable-3m/15667164?icmp=Cart_Item) |
+| Raspberry Pi Camera Module 3 | ~$26 | [CanaKit](https://www.canakit.com/raspberry-pi-camera-module-3.html?defpid=4836) |
 | Acrylic Panel | ~$25.00 | Local hardware store |
 | Two way mirror film | ~$20 | Amazon |
 | Monitor used | $40.00 | Facebook Marketplace |
 | Wood frame materials | ~$15.00 | Hardware store |
-| **Total** | **~$253 CAD** | |
+| **Total** | **~$243 CAD** | |
 
 Asking Blueprint to fund ~$190 CAD (Pi, power supply, 
 SD card, cable, and camera). 
