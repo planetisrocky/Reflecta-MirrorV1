@@ -10,8 +10,7 @@ Built as part of [Hack Club Blueprint](https://blueprint.hackclub.com/projects/1
 
 This project uses MagicMirror²:
 https://github.com/MichMich/MagicMirror
-
-It is included in the /MagicMirror folder.
+MagicMirror is necessary for this project
 
 ---
 
