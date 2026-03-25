@@ -51,11 +51,10 @@ like the right challenge.
 | Two way mirror film | ~$20 | Amazon |
 | Monitor used | $40.00 | Facebook Marketplace |
 | Wood frame materials | ~$15.00 | Hardware store |
-| **Total** | **~$220 CAD** | |
+| **Total** | **~$248 CAD** | |
 
-Asking Blueprint to fund ~$140 CAD (Pi, power supply, 
-SD card, cable, and camera). The monitor, mirror 
-panel, and frame are covered out of pocket.
+Asking Blueprint to fund ~$190 CAD (Pi, power supply, 
+SD card, cable, and camera). 
 
 ---
 
