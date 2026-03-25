@@ -6,6 +6,13 @@ camera module.
 
 Built as part of [Hack Club Blueprint](https://blueprint.hackclub.com/projects/13749)
 
+## Software
+
+This project uses MagicMirror²:
+https://github.com/MichMich/MagicMirror
+
+It is included in the /MagicMirror folder.
+
 ---
 
 ## What it does
@@ -78,14 +85,14 @@ panel, and frame are covered out of pocket.
 ---
 
 ## Wiring
-
-diagram
+<img width="989" height="689" alt="Screenshot 2026-03-24 134644" src="https://github.com/user-attachments/assets/e7ba7a60-7aff-492d-9015-075ac90f53c9" />
 
 ---
 
 ## 3D Model
+<img width="725" height="1467" alt="Screenshot 2026-03-23 190855" src="https://github.com/user-attachments/assets/91e4550f-3eb8-4a6e-9344-db9145994dac" />
 
-diagram
+Viewable on [OnShape](https://cad.onshape.com/documents/974b0718f42100b6abde8744/w/1cf1aaf4cf4a6e1f7f05e657/e/78801cd1131a0b9f729153b8?renderMode=0&uiState=69c31cf3ae9a612d48b5ed63)
 
 ---
 
