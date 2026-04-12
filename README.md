@@ -37,7 +37,7 @@ like the right challenge.
 1. Power on the mirror using the USB-C switch on the back
 2. The MagicMirror interface will boot automatically
 3. Widgets display live data, including time, weather, and your Google Calendar
-4. Use your phone as a remote to switch between modules## Parts List
+4. Use your phone as a remote to switch between modules
 
 ## My parts list
 | Part | Price (CAD) | Source |
